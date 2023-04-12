@@ -1,2 +1,1 @@
-# yaa-ng
-Yet Another Autoresponder NG
+# yoma - Yet One More Autoresponder
