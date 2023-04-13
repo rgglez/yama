@@ -1,1 +1,1 @@
-# yoma - Yet One More Autoresponder
+# yoma - Yet Another Mail Autoresponder
